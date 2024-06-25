@@ -145,7 +145,6 @@ Vector is an end-to-end, unified, open data platform.
 | Delivery guarantees |   **✓**    |       |           |         |          |     ✓     |     ✓     |          |
 |          Multi-core |   **✓**    |   ✓   |     ✓     |    ✓    |    ✓     |     ✓     |     ✓     |     ✓    |
 
-
 ⚠ = Not interoperable, metrics are represented as structured logs
 
 ---
@@ -217,12 +216,9 @@ Vector is an end-to-end, unified, open data platform.
 [urls.vector_code_of_conduct]: https://github.com/vectordotdev/vector/blob/master/CODE_OF_CONDUCT.md
 [urls.vector_community]: https://vector.dev/community/
 [urls.vector_privacy_policy]: https://github.com/vectordotdev/vector/blob/master/PRIVACY.md
-[urls.vector_release_policy]: https://github.com/vectordotdev/vector/blob/master/RELEASING.md
 [urls.vector_releases]: https://vector.dev/releases/
 [urls.vector_releases_policy]: https://github.com/vectordotdev/vector/blob/master/RELEASES.md
 [urls.vector_security_policy]: https://github.com/vectordotdev/vector/security/policy
 [urls.vector_test_harness]: https://github.com/vectordotdev/vector-test-harness/
 [urls.vector_twitter]: https://twitter.com/vectordotdev
 [urls.vector_versioning_policy]: https://github.com/vectordotdev/vector/blob/master/VERSIONING.md
-[urls.vote_feature]: https://github.com/vectordotdev/vector/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc+label%3A%22type%3A+feature%22
-
